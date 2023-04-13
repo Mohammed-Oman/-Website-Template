@@ -1,0 +1,718 @@
+.main{
+  overflow-x: hidden;
+}
+.top{
+padding-left: 200px;
+}
+.facebook,.twitter,.bee,.linkedin{
+  height: 15px;
+}
+.top-banner-icon li{
+  display: inline-block;
+  overflow: hidden;
+  padding-right: 10px;
+  text-align: right;
+}
+.top-banner-icon{
+  text-align: right;
+  padding-right: 20px;
+}
+.top-banner-text{
+  text-align: left;
+  margin-left: 60px;
+}
+#carosalCards{
+  margin: -8%;
+}
+.section2{
+  background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)),url(/public/images/education.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+}
+.section2-box{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+.s2-box-text{
+  font-size: 30px;
+}
+#A1{
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 23px;
+padding-right: 23px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+border: none;
+}
+
+
+.cardsSection{
+  padding-left: 1%; 
+  padding-right: 2%;
+}
+
+#cc1,#cc5,#cc6,#cc8,#cc4{
+ border-radius: 30px;
+ overflow: hidden;
+ border: none;
+}
+.rateTag{
+  font-weight: bold;
+  position: absolute;
+  padding-left: 20px;
+  padding-top: 3px;
+  margin-left: 7%;
+  margin-top: 7%;
+  border-radius: 10px;
+  background-color: white;
+  height: 30px;
+  width: 80px;
+}
+
+.section4{
+  background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)),url(/public/images/img5.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 750px;
+}
+#cc10,#cc12{
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5))
+
+}
+#cc11{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 23px;
+  padding-right: 23px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: small;
+  border: none;
+}
+#cc13{  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 23px;
+  padding-right: 23px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: small;
+  border: none;
+}
+#cc14{
+  margin-top: 4%;
+  border-radius: 30px;
+  padding-left: 20px;
+}
+#Ubtn1{
+  border: none;
+  justify-content: center;
+  padding-left: 50px;
+}
+.section5{
+  background-color:rgba(0, 0, 0, 0.774);
+  padding-bottom: 50px;
+}
+#pp1,#pp2,#pp3,#pp4{
+  padding-left: 50px;
+}
+#btn5{
+  padding-left: 50px;
+ }
+.section6{
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(/public/images/img6.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+}
+#SM,#SM1,#SM2,#SM3{
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 20px;
+}
+#ss10{
+  margin-left: 20%;
+    opacity: 70%;
+    overflow: hidden;
+    border: none;
+    border-radius: 10px;
+    height: 270px;
+    margin-right:20; 
+}
+.section7{
+  background-color:rgba(0, 0, 0, 0.774);
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+#pa1{
+  list-style-type: none;
+}
+.ss18{
+  padding-left: 30px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-top: 30px;
+}
+#m1{
+   border-radius: 30px;
+}
+#m2{
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: 10%;
+}
+#m4{
+  padding-top: 7px;
+  padding-bottom: 7px;
+ border: none;
+ padding-left: 20px;
+ padding-right: 20px;
+}
+#ss16{
+  border-radius: 20px;
+  overflow: hidden;
+  border: none;
+}
+#L1{
+  height: 60px;
+  font-size: small;
+  background-color:rgba(0, 0, 0, 0.774);
+}
+#SM{
+  border-radius: 20px;
+  padding-top: 20px;
+  width: 200px;
+
+}
+#SM1{
+  margin-bottom: 10%;
+  margin-top: 10%;
+  border-radius: 20px;
+  width: 200px;
+}
+#SM2{
+  width: 200px;
+  border-radius: 20px;
+}
+#SM3{
+  width: 200px;
+  padding-top: 10px;
+  margin-top: 10%;
+  border-radius: 20px;
+}
+.section4-boxes{
+  padding-right:50px
+}
+#m1{
+  height: 400;
+}
+
+.left-padded-boxes{
+ margin-left: 30%;
+}
+
+@media(min-width:280px) and (max-width:374px){
+  .section1{
+    font-size: 12px;
+  }
+  .top-banner-icon{
+    text-align: center;
+  }
+  .top-banner-text{
+    text-align: center;
+    margin-left: 1%;
+  }
+  .meeting{
+    margin-left: -22%;
+  }
+  .btn{
+    margin-right: -5%;
+  }
+  .card{
+    margin: 14px;
+    height: 400px;
+  }
+  .text-className{
+    margin-top: -30%;
+  }
+  .apply{
+    margin-left: -4%;
+  }
+  .apply1{
+    margin-left: -4%;
+  }
+  .abc{
+    font-size: 18px;
+    margin-top: 10%;
+    margin-left: -3%;
+    text-align: left;
+  }
+  #A1{
+    font-size: 30px;
+  }
+.align-few-facts-box1{
+  margin-left: 10% ;
+}
+.align-few-facts-box2{
+  margin-left: 10% ;
+}
+.align-few-facts-box3{
+  margin-left: 10% ;
+  padding-bottom: 20px;
+}
+.align-few-facts-box4{
+  margin-left: 10% ;
+}
+.img4{
+  padding-right: 30px;
+  margin-left: -4%;
+}
+.letsget{
+  margin-left: -1%;
+}
+#ss18{
+  text-align: left;
+}
+.section7{
+  margin-top: 10%;
+}
+.section8{
+  margin-left: 2%;
+  text-align: center;
+  margin-top: -5%;
+}
+.text-class{
+  padding-bottom: -20px;
+  margin-top: -50%;
+}
+.upcoming-cards{
+  height: 400px;
+}
+#on{
+  margin-bottom: 20%;
+}
+#cc1{
+  height: auto;
+}
+.upcoming-cards-row-card{
+  margin-top: -20%;
+}
+.session{
+  margin-bottom: 10px
+}
+.lecture{
+  margin-bottom: -15%;
+}
+.newlecture{
+  margin-bottom: -15%;
+}
+.recordings{
+  margin-bottom: -15%;
+}
+#Ubtn1{
+  margin-bottom: -50%;
+}
+  #carosalCards{
+    margin-top: -5%;
+  }
+  .acd{
+    margin-top: -30%;
+  }
+  .carousel-box1{
+    padding-bottom: 30px;
+    margin-top: -10%;
+  }
+  .s2-box-hello{
+    font-size: 14px;
+  }
+  .s2-box-text{
+    font-size: 18px;
+  }
+  .s2-text{
+    font-size: 12px;
+  }
+  #A1{
+    font-size: 12px;
+  }
+
+  .section_three{
+    padding-top: 100px;
+  }
+
+  .upcoming-cards{
+    margin-bottom: 10%;
+  }
+.section4{
+  height: 1300px;
+}
+.section6{
+  height: 1200px;
+}
+.section4-img{
+  height: 220px;
+}
+/* #ss10{
+  width: 250px;
+  height: 220px;
+  margin-left: 8%;
+} */
+#cc14{
+  padding-bottom: 10px;
+}
+.section5{
+  padding-top: 20px;
+}
+.section8{
+  font-size: 10px;
+  padding-bottom: 20px;
+}
+.about{
+  margin-top: -30%;
+}
+#SM1{
+  margin-top: -30%;
+}
+/* .newstud{
+  margin-top: -10%;
+} */
+.sec7 {
+  margin-top: -60%;
+}
+#m2{
+  font-size: small;
+}
+#pa1{
+  font-size: 15px;
+}
+#SM3{
+  margin-top: 10%;
+}
+
+  #ss10{
+    height: 200px;
+    margin-right: 10%;
+  }
+  .section4-img{
+    height: 200px;
+  }
+/* .students{
+  margin-left: 10%;
+}
+.img4{
+  margin-right: 10%;
+}
+.current{
+  margin-bottom: 5%;
+} */
+}
+
+
+
+@media(min-width:375px) and (max-width:564px){
+.top-banner-text{
+  text-align: center;
+  margin-left: 1%;
+}
+.top-banner-icon{
+  text-align: center;
+}
+.meeting{
+  margin-left:-16%
+}
+.section2-box{
+  margin-top: -10%;
+}
+.btn{
+  margin-right: -5%;
+}
+.card{
+  margin: 14px;
+}
+.s2-box-hello{
+  font-size: 16px;
+  padding-top: -20px;
+}
+.s2-box-text{
+  font-size: 22px;
+}
+.s2-text{
+  font-size: 15px;
+}
+.abc{
+  margin-top: 10%;
+  margin-left: -7%;
+}
+#A1{
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+  border: none;
+  }
+  .carousel-box1{
+    margin-bottom: 5%;
+  }
+  .text-className{
+    margin-top: -30%;
+  }
+  .upcoming-cards{
+    margin-bottom: 5%;
+  }
+  .apply{
+    margin-left: -4%;
+  }
+  .apply1{
+    margin-left: -4%;
+  }
+  c10{
+    text-align: left;
+  }
+  .section4{
+    height: 1400px;
+  }
+  .acd{
+    margin-top: -15%;
+  }
+  .about{
+    margin-top: -20%;
+  }
+  .students{
+    margin-left: 20%;
+  }
+  #A1{
+    font-size: 20px;
+  }
+  #A1{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    border: none;
+    }
+  #cc14{
+    margin-top: 1%;
+  }
+  .sec7{
+    margin-top: -25%;
+  }
+  /* .c-box1{
+    margin-bottom: 5%;
+  } */
+  .section6{
+    height: 1100px;
+  }
+  /* .current{
+    margin-bottom: 5%;
+  } */
+  /* #ss10{
+    height: 140px;
+    margin-right: 20%;
+  } */
+  .few-facts-card-text{
+    font-size: 15px;
+  }
+  .align-few-facts-box1{
+    margin-left: 18%;
+  }
+  .align-few-facts-box2{
+    margin-left: 18%;
+  }
+  .align-few-facts-box3{
+    margin-left: 18%;
+    padding-top: 20px;
+  }
+  .align-few-facts-box4{
+    margin-left: 18%;
+    padding-top: 30px;
+  }
+  #ss10{
+    height: 200px;
+    width: 280px;
+    margin-right: 20%;
+  }
+  .img4{
+    padding-right: 20px;
+    margin-left: -5%;
+  }
+  .section4-img{
+    height: 200px;
+  }
+  .section7{
+    margin-top: 25%;
+  }
+
+  .section8 {
+    text-align: center;
+    margin-left: 1%;
+  }
+}
+
+
+
+
+
+@media(min-width:565px) and (max-width:768px){
+  .section2{
+    height: 600px;
+  }
+
+.carousel-box1{
+  height: 200px;
+}
+.carousel-boxes-s2{
+  height: 280px;
+}
+.top-banner-text{
+  margin-left: 8%;
+}
+.meeting{
+  margin-left: -5%;
+}
+
+.text-className{
+  margin-top: -30%;
+}
+#cc1{
+  margin-bottom: 10%;
+}
+.acd{
+  width: 200px;
+  height: 500px;
+}
+.card-text{
+  font-size: 15px;
+}
+#SM{
+  margin-left: 20%;
+}
+#cc16{
+  font-size: 15px;
+}
+
+#Ubtn1{
+  font-size: 15px;
+}
+.firstcard{
+  margin-left: 5%;
+  padding-top: 80px;
+}
+#cc1{
+ width: 300px;
+}
+
+.section_three{
+  margin-top: 200px;
+}
+.upcoming-cards-fRow{
+  margin-left: 15%;
+  padding-top: 100px;
+}
+.upcoming-cards-fRow-box2{
+  margin-left: 22%;
+}
+#cc4{
+  width: 300px;
+  margin-top: 10%;
+}
+#cc5{ 
+  width: 300px;
+  margin-left: 25%;
+  margin-top: 5%;
+}
+#cc6{
+  width: 300px;
+  margin-right: 5%;
+}
+#cc8{
+  width: 300px;
+  margin-left: 35%;
+}
+.abc{
+  margin-left: -7%;
+}
+#new{
+  margin-bottom: -15%;
+}
+#ss16{
+  width:200px;
+  margin-top: 7%;
+}
+.awards{
+  font-size: 20px;
+}
+
+.upcoming-cards-sRow{
+  margin-left: -25%;
+}
+.upcoming-cards-row-card{
+  padding-top: 30px;
+}
+.carousel-box1-height{
+  height: 5000px;
+}
+#cc16,#cc18,#cc20,#cc22{
+  font-size: 15px;
+}
+
+.few-facts-box{
+  margin-right: 10%;
+}
+.few-facts-card-text{
+  font-size: 12px;
+}
+#SM,#SM1,#SM2,#SM3{
+  border-radius: 20px;
+  padding-top: 20px;
+  width: 150px;
+  height: 120px;
+  text-align: center;
+}
+#SM2{
+  width: 170px;
+}
+#ss10{
+  height: 200px;
+}
+.section4-img{
+  height: 200px;
+}
+#ss16{
+  font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

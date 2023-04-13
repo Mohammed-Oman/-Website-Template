@@ -1,0 +1,61 @@
+                <div className="row">
+                  <div className="col-md-4 mt-4">
+                    <div className="card few-facts-box" id="SM">
+                      <div className="card-body text-center">
+                        <h5 className="ss1 text-warning">
+                          <b>94% </b>
+                        </h5>
+                        <p className="card-text text-white">Successed Students</p>
+                        <br></br>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="col-md-4 mt-1">
+                    <div className="card mt-5" id="SM1">
+                      <div className="card-body text-center"style={{paddingTop:30}}>
+                        <h5 className="ss2 text-warning">
+                          <b>2345 </b>
+                        </h5>
+                        <p className="card-text text-white">New Students</p>
+                        <br></br>
+                      </div>
+                    </div>
+                  </div>
+                 
+                 
+                </div>
+                <div className="row">
+                  <div className="current col-md-4">
+                    <div className="card" id="SM2">
+                      <div className="card-body text-center"style={{paddingTop:30 }}>
+                        <h5 className="ss3 text-warning">
+                          <b>126</b>
+                        </h5>
+                        <p className="card-text text-white">Current Teachers</p>
+                        <br></br>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="col-md-4 c-box1">
+                    <div className="card mt-3"id="SM3">
+                      <div className="card-body text-center"style={{paddingTop:30}}>
+                        <h5 className="ss4 text-warning">
+                          <b>32 </b>
+                        </h5>
+                        <p className="card-text text-white">Awards</p>
+                        <br></br>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              {/* </div> */}
+              <div className="img4 col-md-6 mt-5">
+                <div className="card bg-white" id="ss10">
+                  <img
+                    className="card-img section4-img"
+                    src="/images/img28.jpg"
+                    alt="card cap"
+                  ></img>
+                </div>
+              </div>
